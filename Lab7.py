@@ -1,6 +1,6 @@
 # CSC 122
 # Print Largest & Smallest Value & Index in a List
-# By Brian McBride
+# By <Your Name>
 
 """
 Inputs, Processes, Outputs (IOP)
