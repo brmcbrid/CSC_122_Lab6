@@ -1,15 +1,15 @@
-# Tests for Lab7
+# Tests for Lab8
 # Print Largest & Smallest Value & Index in a List
 
 import os.path
 import sys
-from Lab7 import main
+from Lab8 import main
 from tud_tests import *
 
-def test_Lab7():
+def test_Lab8():
 
     try:
-        exists = os.path.exists("Lab7.py")
+        exists = os.path.exists("Lab8.py")
         assert exists == True
     except:
         sys.exit()
