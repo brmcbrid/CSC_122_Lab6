@@ -6,7 +6,7 @@ import sys
 from Lab6 import main
 from tud_tests import *
 
-def test_Lab8():
+def test_Lab6():
 
     try:
         exists = os.path.exists("Lab6.py")
